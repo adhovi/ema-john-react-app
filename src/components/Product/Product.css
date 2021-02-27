@@ -1,0 +1,27 @@
+.single-product {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 30px;
+  margin-right: 100px;
+  padding-bottom: 5px;
+}
+.product-info {
+  margin-left: 50px;
+}
+.product-name {
+  color: blue;
+  font-weight: 400;
+}
+.my-button{
+  background-color: rgb(250, 186, 68);
+  border:1px solid gray;
+  border-radius:5px;
+  font-size: 16px;
+  padding:10px 15px;
+  outline: none;
+  cursor: pointer;
+}
+.my-button:hover{
+  background-color: rgb(243, 164, 18);
+  color: rgb(255, 255, 255);
+}

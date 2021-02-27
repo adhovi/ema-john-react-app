@@ -1,0 +1,23 @@
+.cart {
+  margin-left: 5px;
+}
+.cart h3,
+.cart p {
+    text-align: center;
+}
+.cart table {
+  font-size: 14px;
+  text-align: left;
+}
+
+table td:last-child {
+  text-align: right;
+}
+.total-row {
+  color: #b12704;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 22px;
+  border-top: 1px solid gray;
+  margin-top: 5px;
+}
